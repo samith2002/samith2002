@@ -1,6 +1,6 @@
 ### Hi there, I am Samith 👋
-<h2> Vishnu Assist R18 - Official App Of BVRIT  👇 </h2>
-<a href="https://play.google.com/store/apps/details?id=nitesh.spaceiva"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
+<h2> Download Vishnu Assist R18 - Official App Of BVRIT  👇 </h2>
+<a href="https://play.google.com/store/apps/details?id=sam.vishnu_syllabus"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
 
 I am an aspiring Application Developer an undergraduate degree in Computer Science.   
