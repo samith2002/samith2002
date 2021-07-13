@@ -2,8 +2,7 @@
 <h2> Download Vishnu Assist R18 - Official App Of BVRIT  👇 </h2>
 <a href="https://play.google.com/store/apps/details?id=sam.vishnu_syllabus"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
-
-I am an aspiring Application Developer an undergraduate degree in Computer Science.   
+I am an aspiring **Application Developer** an undergraduate degree in Computer Science.   
 - ⚡ Currently learning **Data Structures and Algorithms**.
 - 🎯 I’m currently Working on **Problem Solving**.
 - 🌱 Currently learning **Java**.
