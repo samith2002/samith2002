@@ -22,6 +22,7 @@ I am an aspiring Application Developer an undergraduate degree in Computer Scien
 :trophy: <b>Got An App With 500+ Users</b>
 <br>
 ### Skills:
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
+      />][website]
 <br>
 
