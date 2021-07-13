@@ -24,7 +24,6 @@ I am an aspiring Application Developer an undergraduate degree in Computer Scien
 ## Skills, Languages and Tools
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="GitHub" width="30px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_flutter_icon_130599.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffile-type-flutter%2F130599&tbnid=XMjBG6wlkyqj3M&vet=12ahUKEwiy-c_m1ODxAhUknksFHWYmACAQMygAegUIARCtAQ..i&docid=IRNWgVf0igWrYM&w=512&h=512&q=flutter%20icon%20hd&hl=en-GB&ved=2ahUKEwiy-c_m1ODxAhUknksFHWYmACAQMygAegUIARCtAQ" />][website]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][website]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 
