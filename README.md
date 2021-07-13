@@ -3,7 +3,7 @@
 
 I am an aspiring Application Developer an undergraduate degree in Computer Science.   
 - ⚡ Currently learning Data Structures and Algorithms.
-- 🧩 I’m currently Working on Problem Solving.
+- 🎯 I’m currently Working on Problem Solving.
 - 🌱 Currently learning Java.
 - :smile: Looking to collaborate on Application Development Projects.
 - 💬 Let's talk about Flutter, Firebase and Api's.
