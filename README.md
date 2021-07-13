@@ -9,7 +9,8 @@ I am an aspiring Application Developer an undergraduate degree in Computer Scien
 - 🌱 Currently learning **Java**.
 - :smile: Looking to collaborate on **Application Development Projects**.
 - 💬 Let's talk about **Flutter**, **Firebase** and **Api's**.
-- :mailbox_with_mail:<i> Email</i>:  [siddosamith@gmail.com](mailto:siddosamith@gmail.com)
+- src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sainitesh321@gmail.com)
+<!-- - :mailbox_with_mail:<i> Email</i>:  [siddosamith@gmail.com](mailto:siddosamith@gmail.com) -->
 ### Connect with me:
 
 [<img align="left" alt="samith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
