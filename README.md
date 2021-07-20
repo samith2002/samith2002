@@ -20,7 +20,6 @@ I am an aspiring **Application Developer** an undergraduate degree in Computer S
 ### Achievements:
 :trophy: <b>Developed Vishnu Assist R18</b> - Official App Of BVRIT<br>
 :trophy: <b>Featured in "Vishnu Era"</b> - Magazine Of Vishnu Educational Society<br>
-:trophy: <b>Got An App With 500+ Users</br>
 :trophy: <b>Only  App of BVRIT With 500+ Users</br>
 <br>
 ### Skills, Languages and Tools:
