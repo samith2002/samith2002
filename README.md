@@ -57,9 +57,9 @@ Tech: Flutter, Firebase, REST APIs
 ---
 
 ### 📬 Connect with Me  
-\<p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/samith-deshai-siddo-787830353/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="300" height="300" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="50" height="50" alt="LinkedIn" />
   </a>
 </p>
  
