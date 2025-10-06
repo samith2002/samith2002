@@ -1,5 +1,5 @@
 ### Hi there, I'm Samith 👋  
-**AI Engineer | Full Stack Developer | App Builder**
+**AI Engineer | Full Stack Developer | LLM Enthusiast**
 
 ---
 
@@ -18,7 +18,7 @@ Passionate about **Generative AI**, **Agentic Workflows**, and **Application Dev
 - 🥇 **1st Place** at *UNT GradInnoHack 2025* for building **MediCall** — a real-time voice AI agent for healthcare scheduling.  
 - 🏆 **Developed Vishnu Assist R18** — Official App of **BVRIT**, featured in *Vishnu Era* Magazine, with **4K+ active users** on the Play Store.  
 - 🧩 **Published Research Paper** on Product Recommendation Systems — [IEEE Link](https://ieeexplore.ieee.org/document/10212422)  
-- 💻 Creator of **Prompt Weaver** — a multimodal AI coding assistant: [promptweaver.me](https://promptweaver.me/)  
+- 💻 Developed **Prompt Weaver** — a multimodal AI Prompt Engineer: [promptweaver.me](https://promptweaver.me/)  
 - ☁️ Built and deployed **MCP servers for Informatica & Salesforce**, secured with AWS Cognito OAuth.  
 
 ---
@@ -57,7 +57,9 @@ Tech: Flutter, Firebase, REST APIs
 ---
 
 ### 📬 Connect with Me  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/samith-deshai-siddo-787830353/)  
+<a href="https://www.linkedin.com/in/samith-deshai-siddo-787830353/" target="_blank">
+  <img align="center" alt="Samith's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>  
 ✉️ **Email:** [siddosamith@gmail.com](mailto:siddosamith@gmail.com)  
 
 ---
