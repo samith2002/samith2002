@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me  
-I’m an **AI Engineer & Full Stack Developer** with 3 years of experience building scalable web and mobile solutions.  
+I’m an **AI Engineer & Full Stack Developer**.  
 Passionate about **Generative AI**, **Agentic Workflows**, and **Application Development**, I love turning ideas into impactful, data-driven products.
 
 - 💡 Currently working on **AI Agent Systems (MCP, RAG, LangChain, LangGraph)**  
